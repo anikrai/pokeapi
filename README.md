@@ -1,2 +1,3 @@
 # pokeapi
-fui atrás de cu, mas só tinha bosta:(
+
+* Ani Dias Bueno
